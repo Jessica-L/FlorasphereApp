@@ -1,6 +1,5 @@
 package com.example.florasphere;
 
-import java.net.URL;
 
 /**
  * Used to create a Plant object and access individual attributes of plant objects.
